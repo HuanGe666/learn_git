@@ -11,3 +11,4 @@ if __name__ == "__main__":
 	print('hello world')
 	print('la la la ')
 	print('aaaa')
+	print('我是小小鸟！！')
