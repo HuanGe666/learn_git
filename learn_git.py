@@ -74,6 +74,3 @@ Git鼓励大量使用分支：
 vi read.txt 查看文档
 $ git log --graph --pretty=oneline --abbrev-commit # 查看合并情况
 '''
-'''
-这是开发分支
-'''
