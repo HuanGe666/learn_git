@@ -10,3 +10,4 @@ import this
 if __name__ == "__main__":
 	print('hello world')
 	print('la la la ')
+	print('aaaa')
